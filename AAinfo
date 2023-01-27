@@ -5,13 +5,11 @@ Common knowledge:
 
 AA Base Modes
 
-Fps Based: 
-Fps Based is recommended to players that have high fps while playing,
-it uses your fps to update the Anti aim
+Client Based: 
+Fps Based Anti aim updates if your csgo client 
+This mode is async if the server
 
-Tick Based:
-Tick Based is recommended to play that dont have a great fps while playing and want to still want to have a god aa,
-it uses the server ticks to update your Anti Aim
-
-
+Server Based:
+Tick Based Anti aim updates if the csgo server
+This mode is sycn if the server tick 
 
