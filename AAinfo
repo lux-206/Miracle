@@ -6,10 +6,10 @@ Common knowledge:
 AA Base Modes
 
 Client Based: 
-Fps Based Anti aim updates if your csgo client 
+Client Based Anti aim updates if your csgo client 
 This mode is async if the server
 
 Server Based:
-Tick Based Anti aim updates if the csgo server
+Server Based Anti aim updates if the csgo server
 This mode is sycn if the server tick 
 
